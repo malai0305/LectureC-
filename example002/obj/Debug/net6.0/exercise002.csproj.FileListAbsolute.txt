@@ -1,0 +1,15 @@
+C:\Users\Артем\OneDrive\Документы\Lecture1C#\exercise002\bin\Debug\net6.0\exercise002.exe
+C:\Users\Артем\OneDrive\Документы\Lecture1C#\exercise002\bin\Debug\net6.0\exercise002.deps.json
+C:\Users\Артем\OneDrive\Документы\Lecture1C#\exercise002\bin\Debug\net6.0\exercise002.runtimeconfig.json
+C:\Users\Артем\OneDrive\Документы\Lecture1C#\exercise002\bin\Debug\net6.0\exercise002.dll
+C:\Users\Артем\OneDrive\Документы\Lecture1C#\exercise002\bin\Debug\net6.0\exercise002.pdb
+C:\Users\Артем\OneDrive\Документы\Lecture1C#\exercise002\obj\Debug\net6.0\exercise002.csproj.AssemblyReference.cache
+C:\Users\Артем\OneDrive\Документы\Lecture1C#\exercise002\obj\Debug\net6.0\exercise002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\OneDrive\Документы\Lecture1C#\exercise002\obj\Debug\net6.0\exercise002.AssemblyInfoInputs.cache
+C:\Users\Артем\OneDrive\Документы\Lecture1C#\exercise002\obj\Debug\net6.0\exercise002.AssemblyInfo.cs
+C:\Users\Артем\OneDrive\Документы\Lecture1C#\exercise002\obj\Debug\net6.0\exercise002.csproj.CoreCompileInputs.cache
+C:\Users\Артем\OneDrive\Документы\Lecture1C#\exercise002\obj\Debug\net6.0\exercise002.dll
+C:\Users\Артем\OneDrive\Документы\Lecture1C#\exercise002\obj\Debug\net6.0\refint\exercise002.dll
+C:\Users\Артем\OneDrive\Документы\Lecture1C#\exercise002\obj\Debug\net6.0\exercise002.pdb
+C:\Users\Артем\OneDrive\Документы\Lecture1C#\exercise002\obj\Debug\net6.0\exercise002.genruntimeconfig.cache
+C:\Users\Артем\OneDrive\Документы\Lecture1C#\exercise002\obj\Debug\net6.0\ref\exercise002.dll
