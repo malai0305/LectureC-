@@ -1,0 +1,15 @@
+C:\Users\Артем\OneDrive\Документы\Lecture1C#\example026\obj\Debug\net6.0\example026.csproj.AssemblyReference.cache
+C:\Users\Артем\OneDrive\Документы\Lecture1C#\example026\obj\Debug\net6.0\example026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\OneDrive\Документы\Lecture1C#\example026\obj\Debug\net6.0\example026.AssemblyInfoInputs.cache
+C:\Users\Артем\OneDrive\Документы\Lecture1C#\example026\obj\Debug\net6.0\example026.AssemblyInfo.cs
+C:\Users\Артем\OneDrive\Документы\Lecture1C#\example026\obj\Debug\net6.0\example026.csproj.CoreCompileInputs.cache
+C:\Users\Артем\OneDrive\Документы\Lecture1C#\example026\bin\Debug\net6.0\example026.exe
+C:\Users\Артем\OneDrive\Документы\Lecture1C#\example026\bin\Debug\net6.0\example026.deps.json
+C:\Users\Артем\OneDrive\Документы\Lecture1C#\example026\bin\Debug\net6.0\example026.runtimeconfig.json
+C:\Users\Артем\OneDrive\Документы\Lecture1C#\example026\bin\Debug\net6.0\example026.dll
+C:\Users\Артем\OneDrive\Документы\Lecture1C#\example026\bin\Debug\net6.0\example026.pdb
+C:\Users\Артем\OneDrive\Документы\Lecture1C#\example026\obj\Debug\net6.0\example026.dll
+C:\Users\Артем\OneDrive\Документы\Lecture1C#\example026\obj\Debug\net6.0\refint\example026.dll
+C:\Users\Артем\OneDrive\Документы\Lecture1C#\example026\obj\Debug\net6.0\example026.pdb
+C:\Users\Артем\OneDrive\Документы\Lecture1C#\example026\obj\Debug\net6.0\example026.genruntimeconfig.cache
+C:\Users\Артем\OneDrive\Документы\Lecture1C#\example026\obj\Debug\net6.0\ref\example026.dll
